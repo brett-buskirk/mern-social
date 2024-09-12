@@ -39,7 +39,7 @@ A social networking application built using the MERN stack (MongoDB, Express.js,
 
 3. **Set up environment variables:**
 
-    Create a .env file in the social_backend directory.
+    Create a `.env` file in the `social_backend` directory.
 
     Add your MongoDB connection string and any other necessary configuration variables.
 
@@ -67,3 +67,35 @@ A social networking application built using the MERN stack (MongoDB, Express.js,
         ```
 
         This should open your default browser and display the MERN Social application.
+
+## Using the App
+
+When the app first loads, it won't have any posts yet:
+
+![image](https://github.com/user-attachments/assets/9b989a43-8407-4d78-acc8-8b54771f172f)
+
+Start by clicking on `Create Post`:
+
+![image](https://github.com/user-attachments/assets/a7d510aa-febb-4863-8f86-dcf52b43a2fe)
+
+Create a post and upload an image if you want:
+
+![image](https://github.com/user-attachments/assets/098764b7-4c28-4e7c-96b1-8fc05d541740)
+
+Click `Post` and then click on `Home` to see your post:
+
+![image](https://github.com/user-attachments/assets/741b93fb-ee33-4792-bd13-2f70d6bb2f61)
+
+At the bottom of your post, you can click the `Like` button or even add a comment:
+
+![image](https://github.com/user-attachments/assets/1ae30b50-c251-4e5e-bc0f-d60efbade0b5)
+
+![image](https://github.com/user-attachments/assets/641d2ead-cf5c-41e8-b0a8-c9209a1b3e8b)
+
+## Make it Your Own
+
+Remember that this is only a basic example of a MERN application. Feel free to experiment and make your own changes as you explore how this code works.
+
+## License
+
+This project is licensed under the MIT License - see the `LICENSE` file for details.
