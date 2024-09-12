@@ -18,7 +18,7 @@ A social networking application built using the MERN stack (MongoDB, Express.js,
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/brett-buskirk/mern-social.git
    cd mern-social
 
 2. **Install dependencies:**
