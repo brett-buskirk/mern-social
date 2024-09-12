@@ -46,6 +46,3 @@ yarn.lock
 
 # Data directory for MongoDB
 /data/db
-
-# Uploaded files
-uploads/
