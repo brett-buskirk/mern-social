@@ -43,10 +43,10 @@ A social networking application built using the MERN stack (MongoDB, Express.js,
 
     Add your MongoDB connection string and any other necessary configuration variables.
 
-    Example `.env` file:
+    Example `.env` file used for this project:
 
     ```
-    MONGODB_URI=mongodb://localhost:27017/mern-social
+    MONGODB_URI=mongodb://127.0.0.1:27017/social_backend
     # Add other variables as needed
     ```
 
