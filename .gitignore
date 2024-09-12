@@ -48,4 +48,4 @@ yarn.lock
 /data/db
 
 # Uploaded files
-uploads/*
+uploads/
