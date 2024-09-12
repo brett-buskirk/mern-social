@@ -19,8 +19,6 @@
     color: #555;
 }
 
-/* App.css */
-
 .create-post {
     max-width: 600px;
     margin: 20px auto;
@@ -101,9 +99,6 @@
     border: none;
     cursor: pointer;
 }
-
-
-/* App.css */
 
 .app {
     max-width: 800px;
