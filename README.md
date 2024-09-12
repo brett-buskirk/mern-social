@@ -41,6 +41,10 @@ A social networking application built using the MERN stack (MongoDB, Express.js,
 
     Create a `.env` file in the `social_backend` directory.
 
+    ```bash
+    touch .env
+    ```
+
     Add your MongoDB connection string and any other necessary configuration variables.
 
     Example `.env` file used for this project:
@@ -50,12 +54,11 @@ A social networking application built using the MERN stack (MongoDB, Express.js,
     # Add other variables as needed
     ```
 
-4. **Start the application:**
+5. **Start the application:**
 
-    * **Backend:**
+    * **Backend:** Make sure you're still in `social_backend` and run:
 
         ```bash
-        cd social_backend
         npm start
         ```
 
