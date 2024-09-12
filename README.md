@@ -39,7 +39,7 @@ A social networking application built using the MERN stack (MongoDB, Express.js,
 
 3. **Set up environment variables:**
 
-    Create a .env file in the social_backend directory.
+    Create a `.env` file in the `social_backend` directory.
 
     Add your MongoDB connection string and any other necessary configuration variables.
 
@@ -67,3 +67,7 @@ A social networking application built using the MERN stack (MongoDB, Express.js,
         ```
 
         This should open your default browser and display the MERN Social application.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
